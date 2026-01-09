@@ -526,7 +526,7 @@ A: 参考 [安装步骤](#安装步骤) 中的"初始化数据库表"部分，�
 
 **项目开发者**
 
-- GitHub: [@yourusername](https://github.com/yourusername)
+- GitHub: [[@yourusername](https://github.com/yourusername)](https://github.com/RM-wd)
 - Email:rm_wangdong@163.com
 ---
 
